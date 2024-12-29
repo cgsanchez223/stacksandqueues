@@ -1,0 +1,14 @@
+- Unit 33.6 Stacks and Queues
+- Queues 
+    - Can add objects to end and remove objects from beginning
+    - Can be used with linked lists
+- Stacks
+    - Items are added on the top
+    - Items are only removed at the top
+    - Used with arrays, and linked lists
+________________________________________________________________
+- Assignment
+- queue.js
+    - Includes methods for enqueing, dequeing, peeking and checking if the queue is empty.
+- stack.js
+    - Includes methods for pushing, popping, peeking, and checking if the stack is empty.
